@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-size: cover;
+    background-color: darkgray;
+}
+
+h1, h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
